@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "aa8af16f2d80eb7e092a8a95",
+  "owner": "yvwunsfuc",
+  "repo": "page-f721b2c2905941afee19d5df",
+  "title": "零点云(0dcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f721b2c2905941afee19d5df",
+      "a": "零点云(0dcloud)",
+      "b": "",
+      "entity": "零点云(0dcloud)",
+      "brand": "零点云(0dcloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "26f97ad352f8667e0dedb1d7bd4cd66e12147fb9029eca11c533b42826e2ca56",
+      "content": {
+        "keyword1": "零点云(0dcloud)",
+        "keyword2": "",
+        "primary_entity": "零点云(0dcloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "零点云(0dcloud)为你提供稳定、贴心的网络连接服务。告别卡顿，和朋友一起享受流畅的数字生活。",
+          "AI_DESCRIPTION": "零点云(0dcloud)为你提供稳定、贴心的网络连接服务。告别卡顿，和朋友一起享受流畅的数字生活。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--wine: #6B1D2F;--wine-dark: #4A121F;--ivory: #F8F6F0;--ivory-card: #FFFFFF;--text-main: #2C2224;--text-muted: #6E5F62;--accent: #B84A5C;--border-color: #2C2224}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--ivory);color: var(--text-main);font-family: system-ui, -apple-system, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside {width: 260px;background-color: var(--wine-dark);color: var(--ivory);position: fixed;top: 0;bottom: 0;left: 0;padding: 2.5rem 1.5rem;display: flex;flex-direction: column;justify-content: space-between;z-index: 10}\naside .logo {font-size: 1.25rem;font-weight: bold;letter-spacing: 0.05em;margin-bottom: 2.5rem;color: var(--ivory);text-decoration: none}\naside nav {display: flex;flex-direction: column;gap: 1.25rem}\naside nav a {color: var(--ivory);text-decoration: none;font-size: 0.95rem;opacity: 0.8;transition: opacity 0.2s}\naside nav a:hover {opacity: 1}\naside .aside-footer {font-size: 0.8rem;opacity: 0.6}\nmain {margin-left: 260px;flex: 1;display: flex;flex-direction: column}\nsection {padding: 5rem 4rem;border-bottom: 2px solid var(--border-color)}\n.hero {background-color: var(--wine);color: var(--ivory);display: flex;flex-direction: column;justify-content: center;min-height: 80vh;gap: 2rem}\n.hero h1 {font-size: 3.5rem;line-height: 1.2;font-weight: 800;letter-spacing: -0.02em}\n.hero p {font-size: 1.25rem;max-width: 600px;opacity: 0.9}\n.hero-cta {display: inline-block;background-color: var(--ivory);color: var(--wine-dark);padding: 0.85rem 2rem;font-weight: bold;text-decoration: none;border: 2px solid var(--border-color);box-shadow: 4px 4px 0px var(--border-color);width: fit-content;margin-top: 1rem}\n.section-title {font-size: 2rem;margin-bottom: 1rem;font-weight: 700;color: var(--wine-dark)}\n.section-desc {color: var(--text-muted);margin-bottom: 3rem;font-size: 1.05rem}\n.plans-container {display: flex;flex-direction: column;gap: 2rem;max-width: 800px}\n.plan-card {background: var(--ivory-card);border: 3px solid var(--border-color);padding: 2.5rem;box-shadow: 6px 6px 0px var(--border-color);position: relative}\n.plan-card.featured {background: #FFF9F9;border-color: var(--accent)}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1.5rem;border-bottom: 2px dashed #ddd;padding-bottom: 1rem}\n.plan-name {font-size: 1.5rem;font-weight: bold}\n.plan-price {font-size: 1.5rem;font-weight: bold;color: var(--accent)}\n.plan-features {list-style: none;display: grid;grid-template-columns: 1fr 1fr;gap: 0.75rem 1.5rem;margin-bottom: 1.5rem}\n.plan-features li {font-size: 0.95rem;position: relative;padding-left: 1.25rem}\n.plan-features li::before {content: \"•\";color: var(--accent);position: absolute;left: 0;font-weight: bold}\n.plan-annual {font-size: 0.85rem;color: var(--text-muted)}\n.steps-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));gap: 2rem}\n.step-card {background: var(--ivory-card);border: 3px solid var(--border-color);padding: 2rem;box-shadow: 6px 6px 0px var(--border-color)}\n.step-number {font-size: 2.5rem;font-weight: 900;color: var(--accent);margin-bottom: 1rem;line-height: 1}\n.step-title {font-size: 1.2rem;font-weight: bold;margin-bottom: 0.5rem}\n.faq-group {margin-bottom: 2.5rem}\n.faq-group h3 {font-size: 1.25rem;color: var(--wine-dark);margin-bottom: 1rem;padding-bottom: 0.5rem;border-bottom: 2px solid var(--border-color)}\n.faq-item {background: var(--ivory-card);border: 3px solid var(--border-color);padding: 1.5rem;margin-bottom: 1rem;box-shadow: 4px 4px 0px var(--border-color)}\n.faq-q {font-weight: bold;margin-bottom: 0.5rem;color: var(--text-main)}\n.faq-a {color: var(--text-muted);font-size: 0.95rem}\nfooter {background: var(--border-color);color: var(--ivory);padding: 3rem 4rem;text-align: center;font-size: 0.9rem}\n@media (max-width: 900px) {\n  aside {display: none}\n  main {margin-left: 0}\n  section {padding: 3rem 1.5rem}\n  .hero h1 {font-size: 2.5rem}\n  .plan-features {grid-template-columns: 1fr}\n}\n</style><aside>\n  <div>\n    <a href=\"#\" class=\"logo\">零点云 (0dcloud)</a>\n    <nav>\n      <a href=\"#features\">特色服务</a>\n      <a href=\"#plans\">套餐价格</a>\n      <a href=\"#guide\">使用指南</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n  <div class=\"aside-footer\">\n    <p>© 零点云 伴你左右</p>\n  </div>\n</aside>\n\n<main>\n  <section class=\"hero\">\n    <h1>零点云(0dcloud) · 零点云 (0dcloud)</h1>\n    <p>嘿！很高兴在这里遇见你。如果你正在寻找一个稳定、靠谱且不折腾的网络连接伙伴，来，了解一下我们为你准备的贴心服务吧。</p>\n    <div>\n      <a href=\"#plans\" class=\"hero-cta\">挑选适合你的方案</a>\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2 class=\"section-title\">我们能为你做些什么？</h2>\n    <p class=\"section-desc\">没有华丽的辞藻，只有实实在在的稳定体验和随时在线的陪伴。</p>\n    <div class=\"steps-grid\">\n      <div class=\"step-card\">\n        <div class=\"step-number\">01</div>\n        <div class=\"step-title\">轻松接入</div>\n        <p>告别繁琐配置，几分钟就能轻松上手，把时间留给真正重要的事情。</p>\n      </div>\n      <div class=\"step-card\">\n        <div class=\"step-number\">02</div>\n        <div class=\"step-title\">稳定流畅</div>\n        <p>无论是查资料、看视频还是处理工作，都有稳稳的幸福感，告别恼人卡顿。</p>\n      </div>\n      <div class=\"step-card\">\n        <div class=\"step-number\">03</div>\n        <div class=\"step-title\">贴心守护</div>\n        <p>遇到任何小疑问？随时来找我们，朋友之间，没有什么不能沟通解决的。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2 class=\"section-title\">简单透明的套餐价格</h2>\n    <p class=\"section-desc\">就像去咖啡馆点单一样简单，按需选择，绝无隐藏套路。</p>\n    \n    <div class=\"plans-container\">\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">基础版</div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          </div>\n          <div class=\"plan-price\">¥15/月</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">旗舰版 (大家都在用)</div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          </div>\n          <div class=\"plan-price\">¥35/月</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">团队版</div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n          </div>\n          <div class=\"plan-price\">¥85/月</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2 class=\"section-title\">三步开启畅快体验</h2>\n    <p class=\"section-desc\">就像给手机充电一样自然，跟着步骤轻松搞定。</p>\n    <div class=\"steps-grid\">\n      <div class=\"step-card\">\n        <div class=\"step-number\">01</div>\n        <div class=\"step-title\">注册账号</div>\n        <p>花半分钟时间留下你的联系方式，创建属于你的零点云通行证。</p>\n      </div>\n      <div class=\"step-card\">\n        <div class=\"step-number\">02</div>\n        <div class=\"step-title\">选择心仪方案</div>\n        <p>根据你的日常使用习惯，挑选上面最适合你的流量套餐并完成订阅。</p>\n      </div>\n      <div class=\"step-card\">\n        <div class=\"step-number\">03</div>\n        <div class=\"step-title\">一键连结</div>\n        <p>把专属配置导入你顺手的客户端里，点一下按钮，世界就在眼前。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"section-title\">常见问题</h2>\n    <p class=\"section-desc\">把大家经常问起的小疑惑整理在这里，希望能帮到你。</p>\n\n    <div class=\"faq-group\">\n      <h3>关于账号与设备</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">买了一个套餐，可以在手机和电脑上同时用吗？</div>\n        <div class=\"faq-a\">当然可以呀！根据你选择的套餐不同，支持 3 到 20 台设备同时在线，手机、电脑、平板全家桶轻松搞定。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">流量用完了会怎么样？还能继续买吗？</div>\n        <div class=\"faq-a\">如果流量提前用完了也不用慌，随时可以加购流量包，或者直接升级到更适合你的套餐哦。</div>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>关于连接与体验</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">连接遇到卡顿或连不上怎么办？</div>\n        <div class=\"faq-a\">别着急，先检查一下网络或换个节点试试。如果还是不行，随时在后台发工单找我们，我们会帮你看看到底是什么小问题。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">支持看流媒体和日常网页浏览吗？</div>\n        <div class=\"faq-a\">没问题的，我们的节点针对主流的流媒体和日常网页浏览都做了贴心优化，流畅不卡顿。</div>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>零点云 (0dcloud) © 2024 - 愿每一次连接都充满温度</p>\n  </footer>\n</main>",
+          "hash": "f306be41f104418e830ac2ac32778a94329dd988501fcaa51ce53daae8398b7c",
+          "seo": {
+            "title": "零点云(0dcloud) - 懂你的网络连接伙伴",
+            "keywords": "零点云, 0dcloud, 网络加速, 专线连接, 流量套餐",
+            "description": "零点云(0dcloud)为你提供稳定、贴心的网络连接服务。告别卡顿，和朋友一起享受流畅的数字生活。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "4567",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengkairc.cn",
+    "host": "p-e184db8717.fengkairc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9a2eff840f4863cbd1692c56e25992702aa3e3bc604e34ca360b6bd83854ef1d",
+    "sitemap.xml": "a39848135e951429d7c2b08efde3953e60f58e14412610b0e2b233cf77a1b72c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "225b57779e2aab8ad066d6921340784e282f413e204662da674f561aff9b8084",
+    "robots.txt": "b5bc4ffc01e93a0a5b9814a244c3cf2cf3b999492d06d113675190d3ea64d949",
+    "a8a1f460204d0fa24dfabcd6b8e1860b.txt": "33c9e0c17c9201b8a0da250c24343336660dd70b74b366926e2656feeb425b93"
+  },
+  "revision": "4361d4691bf8118fd0b808540ba945fb539686eed357591aa9bf040744601da0"
+}
